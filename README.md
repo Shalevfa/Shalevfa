@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shalevfa
 - 👀 I’m interested in mechine learning`
-- 🌱 I’m currently learning mechaical engineering
+- 🌱 I’m currently learning B.sc mechaical engineering
 - 💞️ I’m looking to collaborate on code and algoritems
 - 📫 How to reach me shalefa@ac.sce.ac.il
 
