@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Shalevfa
+- 👋 Hi, I’m @Shalev Navon 
 - 👀 I’m interested in mechine learning`
-- 🌱 I’m currently learning B.sc mechaical engineering
+- 🌱 recent graduate of B.sc mechaical engineering mechatronic intern
 - 💞️ I’m looking to collaborate on code and algoritems
-- 📫 How to reach me shalefa@ac.sce.ac.il
+- 📫 How to reach me Shalev.engineer@gmail.com 
 
 
 <!---
